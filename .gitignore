@@ -1,0 +1,6 @@
+YOLO/
+.obsidian/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
